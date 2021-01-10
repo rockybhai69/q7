@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+//*<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -105,4 +105,4 @@ public class prog1 extends HttpServlet {
 		doGet(request, response);
 	}
 
-}
+}*//
